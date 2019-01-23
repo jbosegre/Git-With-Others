@@ -1,7 +1,7 @@
 # Git-With-Others
 
-** This is from Tony **
-
-#gitlab
-##Team
-*Alex
+# gitlab
+## Team
+* Alex
+* Bob
+* Yanni
